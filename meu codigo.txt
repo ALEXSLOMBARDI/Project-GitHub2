@@ -1,1 +1,2 @@
 Hello this is my Git project. 
+Hello this is a new update
